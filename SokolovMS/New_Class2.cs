@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SokolovMS
 {
-    internal class New_Class
+    internal class New_Class2
     {
     }
 }
